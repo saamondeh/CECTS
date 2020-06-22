@@ -1,2 +1,2 @@
 # CECTS
-processing pipeline script
+processing pipeline scripts
